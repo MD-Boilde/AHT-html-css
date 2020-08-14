@@ -229,9 +229,7 @@
 		top:59%;
 		right: 13.7%;
 	}
-	.banner-descrip h3,h4{
-
-	}
+	
 	.banner__container-right>.banner__descrip h3,.banner__container-right>.banner__descrip h4{
 		font-family: 'Montserrat', sans-serif;
 		text-transform: uppercase;
@@ -339,9 +337,6 @@
 	}
 	.rate-disable{
 		font-size: 12px;
-	}
-	.product-desc-price{
-		font-family: 
 	}
 	.product-desc-price{
 		font-family: 'Open Sans', sans-serif;
